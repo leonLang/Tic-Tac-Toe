@@ -9,5 +9,9 @@ public class Frame extends JFrame {
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		setResizable(false);
 	}
+	public void add() {
+		Panel panel = new Panel();
+		add(panel);
+	}
 
 }
