@@ -9,8 +9,6 @@ public class Panel extends JPanel{
 	@Override
 	public void paintComponent(Graphics g) {
 	
-
-
 	}
 
 
